@@ -1,7 +1,7 @@
 {
   "name": "codigo5/baobaz-orderscancel",
   "type": "magento-module",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "This extension automatically cancels old orders that are not paid. You can define which statuses for which orders should be deleted. You can also choose expiration time (in days).",
   "require": {
     "php": ">=5.4"
