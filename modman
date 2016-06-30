@@ -1,0 +1,4 @@
+app/code/community/Baobaz/OrdersCancel app/code/community/Baobaz/OrdersCancel
+app/etc/modules/*.xml etc/modules/
+app/locale/en_US/*.csv app/locale/en_US/
+app/locale/fr_FR/*.csv app/locale/fr_FR/
